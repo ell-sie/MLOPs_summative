@@ -6,6 +6,7 @@ This project demonstrates the deployment of a machine learning pipeline using Fa
 
 ## Directory Structure
 
+```
 MLOPs_summative/
 │
 ├── README.md
@@ -28,6 +29,7 @@ MLOPs_summative/
 └── models/
 ├── mlp_model.pkl
 └── scaler.pkl
+```
 
 ## Setup
 
@@ -80,7 +82,7 @@ Copy code
 This project demonstrates the deployment of a machine learning model using FastAPI. The model is a Multi-layer Perceptron (MLP) trained on the Iris dataset.
 
 ## Project Structure
-
+```
 project_name/
 │
 ├── README.md
@@ -104,6 +106,7 @@ project_name/
 └── models/
 ├── mlp_model.pkl
 └── scaler.pkl
+```
 
 markdown
 Copy code
